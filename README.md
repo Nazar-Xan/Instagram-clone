@@ -51,3 +51,4 @@ Instagram web app clone using **`React`** , **`Redux`** , **`React Router`** ,**
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 # Instagram-clone
+# Insta-clone

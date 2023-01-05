@@ -70,7 +70,7 @@ const About = () => {
           </a>
         ))}
       </div>
-      <p>© 2021 Instagram clone by Phanison</p>
+      <p>Instagram clone</p>
     </div>
   );
 };
